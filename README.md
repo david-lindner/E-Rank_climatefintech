@@ -1,17 +1,7 @@
-# #climatefintech Hackathon
+# E-Rank - Climate FinTech Hackathon
 
-Guidline
-----------
-1. Fork this repository
-2. Create a subdirectory with your project
-3. Send a PR to submit
+Prize winning solution in the Climate FinTech Hackathon Zürich, Nov 17-18, 2017 (open-challenge category-winner and overall event-winner). For more details about the event, see https://sustainablefintech.ch/.
 
-Resources
-----------
-- [Meteonorm Webservice](https://sustainablefintech.ch/wp-content/uploads/2017/11/mn7_webservice_API_fintech_hack.pdf)
-- [Meteotest Weather Forecasts](https://sustainablefintech.ch/wp-content/uploads/2017/11/weather_forecasts_fintech_hack.pdf)
--
+E-Rank provides an automated and low-cost solution to help banks quickly calculate an estimate of a houses energy efficiency rating using satellite and other open data. This allows them find customers will suited for energy efficient renovations, which increase the value of the house substantially and are of benefit to the both bank and consumer.
 
-Inspiration
--------------
-- 
+Final presentation: https://drive.google.com/open?id=1a7P8xXqi44TumF-EvAfxNRQSfKuqtrru
