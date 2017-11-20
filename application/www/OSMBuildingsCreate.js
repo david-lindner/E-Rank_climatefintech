@@ -1,0 +1,1 @@
+new OSMBuildings(Shiny.mymap).load();
